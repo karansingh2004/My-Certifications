@@ -7,5 +7,6 @@ I have completed :
 5. Java Certification Course - By 'SkillUp'
 6. Python Certification - By 'IBM'
 7. Web Designing Internship - By 'Solitaire Infosys Pvt. Ltd. Mohali, Punjab'
-8. Web Developemnt Internship - By 'Optimum Wellness Academy Kolkata, West Bengal'
-9. GeoData Processing with Python - By "ISRO (Indian Space Reasearch Organsation)"
+8. KaranSingh_Resume - "My Resume"
+9. Web Developemnt Internship - By 'Optimum Wellness Academy Kolkata, West Bengal'
+10. GeoData Processing with Python - By "ISRO (Indian Space Reasearch Organsation)"
